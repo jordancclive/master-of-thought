@@ -1,0 +1,153 @@
+body {
+  font-family: 'Lora', serif;
+  color: #303030;
+  background-image: url("light-paper-fibers.jpg");
+  /*background-image: url("cream-paper-subtle-pattern.jpg");*/
+  background-repeat: repeat;
+  padding: 10px;
+  margin-right: 0 50% !important;
+  margin-left: 0 50% !important;
+  float: none !important;
+}
+
+/*
+White: #FCFCFC
+Black: #202020
+Dark Grey: #303030
+Grey: #707070
+Burgundy: #BD2031
+Caribbean Blue: #88E1FB
+*/
+
+.container {
+  max-width: 600px;
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display SC', serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: #BD2031;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+.pretitle {
+  font-size: 30px;
+  line-height: 0.9;
+}
+
+.title {
+  font-size: 70px;
+  line-height: 0.9;
+}
+
+a {
+  color: #303030;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #88E1FB;
+}
+
+hr {
+  width: 90%;
+}
+
+ul.global-nav {
+  float: right;
+  clear: none;
+  list-style-type: none;
+}
+
+ul.global-nav li {
+  margin: 5px 0px;
+}
+
+.navigation_box {
+  float: right;
+  clear: none;
+  margin-right: 10px;
+}
+
+.navigation {
+  float: right;
+  clear: none;
+}
+
+.navigation a {
+  text-decoration: none;
+}
+
+mark {
+  background-color: transparent;
+  color: #BD2031;
+}
+
+p, blockquote, li {
+  font-size: 16px;
+  line-height: 24px;
+  margin: 20px 0px;
+}
+
+blockquote {
+  border-left: 2px solid #BD2031;
+  margin: auto;
+  max-width: 350px;
+  padding: 0px 15px;
+  text-align: center;
+}
+
+li.book-list {
+  line-height: 18px;
+  list-style-type: none;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.firstcharacter {
+  color: #BD2031;
+  float: left;
+  font-size: 300%;
+  line-height: 80%;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.table_of_contents {
+  display: block;
+  margin: auto;
+  max-width: 350px;
+}
+
+.toc {
+  line-height: 16px;
+  margin: 8px 0px;
+}
+
+.spacer {
+  height: 50px;
+}
+
+@media only screen and (min-width: 768px) {
+h1 {
+  font-size: 48px;
+}
+
+.pretitle {
+  font-size: 40px;
+}
+
+.title {
+  font-size: 110px;
+}
+}

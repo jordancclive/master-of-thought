@@ -1,0 +1,56 @@
+<html>
+  <%- include("./head", {title: name}) %>
+
+  <body>
+    <div class="container">
+      <%- include("./nav") %>
+      <h1 class="text-center">Logical Fallacies</h1>
+
+      <div class="spacer"></div>
+      <blockquote class="main-quote text-center">
+        As the physically weak man can make himself strong by careful and
+        patient training, so the man of weak thoughts can make them strong by
+        exercising himself in right thinking.
+      </blockquote>
+      <p class="text-center">- <em>As a Man Thinketh</em>, by James Allen</p>
+
+      <% logicalFallacies.forEach(function(lf){ %>
+      <p class="toc">
+        <a href="/logical-fallacies/<%= lf.page_name %>"><%= lf.name %></a>
+      </p>
+      <% }); %>
+
+      <div class="spacer"></div>
+      <hr />
+
+      <p class="text-center">
+        Created by <a href="http://jordanclive.com">Jordan Clive</a>
+      </p>
+
+      <script>
+        (function (i, s, o, g, r, a, m) {
+          i["GoogleAnalyticsObject"] = r;
+          (i[r] =
+            i[r] ||
+            function () {
+              (i[r].q = i[r].q || []).push(arguments);
+            }),
+            (i[r].l = 1 * new Date());
+          (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m);
+        })(
+          window,
+          document,
+          "script",
+          "https://www.google-analytics.com/analytics.js",
+          "ga"
+        );
+
+        ga("create", "UA-92016918-1", "auto");
+        ga("send", "pageview");
+      </script>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+<html>
+  <%- include("./head", {title: name}) %>
+
+  <body>
+    <div class="container">
+      <%- include("./nav") %>
+      <h1>As a Man Thinketh</h1>
+      <p><em>Reading Time: 1 - 2 hours</em></p>
+      <br>
+      <img src="james-allen.jpg" class="img-responsive center-block" />
+      <br>
+      <% chapters.forEach(function(chapter){ %>
+      <p class="toc">
+        <% if (chapter.page_name !== 'about-this-book') { %><%= chapter.id - 1
+        %>. <% } %>
+        <a href="/chapter/<%= chapter.page_name %>"><%= chapter.name %></a>
+      </p>
+      <% }); %>
+
+      <div class="spacer"></div>
+      <hr />
+
+      <p class="text-center">
+        Created by <a href="http://jordanclive.com">Jordan Clive</a>
+      </p>
+
+      <script>
+        (function (i, s, o, g, r, a, m) {
+          i["GoogleAnalyticsObject"] = r;
+          (i[r] =
+            i[r] ||
+            function () {
+              (i[r].q = i[r].q || []).push(arguments);
+            }),
+            (i[r].l = 1 * new Date());
+          (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m);
+        })(
+          window,
+          document,
+          "script",
+          "https://www.google-analytics.com/analytics.js",
+          "ga"
+        );
+
+        ga("create", "UA-92016918-1", "auto");
+        ga("send", "pageview");
+      </script>
+    </div>
+  </body>
+</html>

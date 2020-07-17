@@ -40,22 +40,33 @@ app.get("/books", (req, res, next) => {
 });
 
 app.get("/books/:page_name", (req, res, next) => {
-  let arr = booksDb.getBookSortByName();
+  let obj = booksDb.getBookByNoList();
   let nextBook;
   let prevBook;
   let currBook;
 
+  let keys = Object.keys(obj);
+
   // finding next book and prev book
-  arr.forEach((ele, i) => {
-    if (ele.page_name == req.params.page_name) {
-      currBook = ele;
-      nextBook = i != arr.length - 1 ? arr[i + 1] : arr[0];
-      prevBook = i != 0 ? arr[i - 1] : arr[arr.length - 1];
-    }
+  keys.forEach((key, keyIndex) => {
+    obj[key].forEach((ele, i) => {
+      if (ele.page_name == req.params.page_name) {
+        currBook = ele;
+        nextBook =
+        i != obj[key].length - 1
+        ? obj[key][i + 1]
+        : keyIndex != 0 && obj[keyIndex + 1][0];
+        prevBook =
+        i != 0
+        ? obj[key][i - 1]
+        : keyIndex != keys.length - 1 &&
+        obj[keys[keyIndex + 1]][obj[keys[keyIndex + 1]].length - 1];
+      }
+    });
   });
 
   const name = currBook.name;
-  res.render("book", {
+    res.render("book", {
     name,
     currBook,
     nextBook,
@@ -87,6 +98,11 @@ app.get("/logical-fallacies", (req, res, next) => {
 app.get("/virtues-and-vices", (req, res, next) => {
   const name = "Virtues and Vices";
   res.render("virtues-and-vices", { name });
+});
+
+app.get("/world-cultures", (req, res, next) => {
+  var name = "World Cultures";
+  res.render("world-cultures", { name });
 });
 
 app.get("/chapter/:page_name", (req, res, next) => {

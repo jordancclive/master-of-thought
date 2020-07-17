@@ -11,12 +11,12 @@ body {
 }
 
 /*
+Red: #BD2031
+Maroon: #8A1723
+Creamy Pink: #C85E68
 White: #FCFCFC
-Black: #202020
-Dark Grey: #303030
+Black: 303030
 Grey: #707070
-Burgundy: #BD2031
-Caribbean Blue: #88E1FB
 */
 
 .container {
@@ -53,11 +53,20 @@ a {
 }
 
 a:hover {
-  color: #88E1FB;
+  color: #C85E68;
 }
 
 hr {
   width: 90%;
+}
+
+.home-logo {
+  width: 40px;
+  height: auto;
+}
+
+.home-logo:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
 ul.global-nav {
@@ -83,11 +92,6 @@ ul.global-nav li {
 
 .navigation a {
   text-decoration: none;
-}
-
-mark {
-  background-color: transparent;
-  color: #BD2031;
 }
 
 p, blockquote, li {

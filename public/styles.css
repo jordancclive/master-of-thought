@@ -81,8 +81,8 @@ ul.global-nav li {
 
 .navigation_box {
   float: right;
-  clear: none;
-  margin-right: 10px;
+  clear: right;
+  margin-right: 0px;
 }
 
 .navigation {

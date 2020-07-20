@@ -10,6 +10,12 @@ body {
   float: none !important;
 }
 
+.border-frame {
+  background-image: url("borderframe.png"), url("light-paper-fibers.jpg");
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+}
+
 /*
 Red: #BD2031
 Maroon: #8A1723
@@ -71,11 +77,12 @@ hr {
 
 ul.global-nav {
   float: right;
-  clear: none;
   list-style-type: none;
 }
 
 ul.global-nav li {
+  float: right;
+  clear: none;
   margin: 5px 0px;
 }
 

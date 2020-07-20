@@ -23,7 +23,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0451524934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451524934&linkCode=as2&tag=flowoflearnin-20&linkId=18f81ee56499cabf25b5e0ace5648f61"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0451524934&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0451524934" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["George Orwell"],
     author_url: ["https://en.wikipedia.org/wiki/George_Orwell"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1949,
     book_lists: [2, 3, 4, 5, 6, 7],
@@ -37,7 +37,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486280616/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486280616&linkCode=as2&tag=flowoflearnin-20&linkId=1168e4dc29601cc1fcba228615643dd7"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486280616&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486280616" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Mark Twain"],
     author_url: ["https://en.wikipedia.org/wiki/Mark_Twain"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1884,
     book_lists: [3, 4, 6, 7],
@@ -51,7 +51,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/B0759VY7MV/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0759VY7MV&linkCode=as2&tag=flowoflearnin-20&linkId=0d9e3314cdf2e8ce7183356dd4935aff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0759VY7MV&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=B0759VY7MV" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Carlo Collodi"],
     author_url: ["https://en.wikipedia.org/wiki/Carlo_Collodi"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Italy",
     year_completion: 1883,
     book_lists: [4, 6],
@@ -65,7 +65,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0449213943/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0449213943&linkCode=as2&tag=flowoflearnin-20&linkId=8ed315db942d4929aa97879a1db7e99f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0449213943&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0449213943" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Erich Maria Remarque"],
     author_url: ["https://en.wikipedia.org/wiki/Erich_Maria_Remarque"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Germany",
     year_completion: 1929,
     book_lists: [4, 7],
@@ -79,7 +79,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0140443487/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140443487&linkCode=as2&tag=flowoflearnin-20&linkId=4946985570aa72041e601e4a8db73b2b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0140443487&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0140443487" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Confucius"],
     author_url: ["https://en.wikipedia.org/wiki/Confucius"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "China",
     year_completion: "475-221 BC",
     book_lists: [2, 6],
@@ -93,7 +93,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0451526341/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451526341&linkCode=as2&tag=flowoflearnin-20&linkId=da7f9403cca8ff48dff40927f350fba3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0451526341&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0451526341" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["George Orwell"],
     author_url: ["https://en.wikipedia.org/wiki/George_Orwell"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1945,
     book_lists: [4, 5, 6],
@@ -107,7 +107,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1853262714/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853262714&linkCode=as2&tag=flowoflearnin-20&linkId=424b10d31871e91975324b7ee378012b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1853262714&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1853262714" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Leo Tolstoy"],
     author_url: ["https://en.wikipedia.org/wiki/Leo_Tolstoy"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Russia",
     year_completion: 1877,
     book_lists: [1, 3, 5],
@@ -121,7 +121,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1503214133/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1503214133&linkCode=as2&tag=flowoflearnin-20&linkId=1d638e3145d45bfe82d55c7042a56633"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1503214133&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1503214133" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["L. M. Montgomery"],
     author_url: ["https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Canada",
     year_completion: 1908,
     book_lists: [4, 6],
@@ -136,7 +136,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/B08CZVR4BK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08CZVR4BK&linkCode=as2&tag=flowoflearnin-20&linkId=914d71c2668d0f16ddcfab1497b15650"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B08CZVR4BK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=B08CZVR4BK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Unknown"],
     author_url: [],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Middle East",
     year_completion: 1705,
     book_lists: [2, 3, 6],
@@ -150,7 +150,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1599869772/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1599869772&linkCode=as2&tag=flowoflearnin-20&linkId=915d55b41870fe6512aa7bcd19fb5bb5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1599869772&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1599869772" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Sun Zi"],
     author_url: ["https://en.wikipedia.org/wiki/Sun_Tzu"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "China",
     year_completion: "5th Century BC",
     book_lists: [6, 7],
@@ -164,7 +164,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1688093389/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1688093389&linkCode=as2&tag=flowoflearnin-20&linkId=9b121f8f141f447887ed1d4366b320bc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1688093389&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1688093389" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Benjamin Franklin"],
     author_url: ["https://en.wikipedia.org/wiki/Benjamin_Franklin"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1791,
     book_lists: [6, 7],
@@ -178,7 +178,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1400033411/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1400033411&linkCode=as2&tag=flowoflearnin-20&linkId=30967c1f1be390fb36903b35ded05709"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1400033411&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1400033411" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Toni Morrison"],
     author_url: ["https://en.wikipedia.org/wiki/Toni_Morrison"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1987,
     book_lists: [1, 2, 3],
@@ -192,7 +192,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1853262838/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853262838&linkCode=as2&tag=flowoflearnin-20&linkId=87728dd9f0b7c515c9a56ce31b33f3f5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1853262838&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1853262838" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Lew Wallace"],
     author_url: ["https://en.wikipedia.org/wiki/Lew_Wallace"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1880,
     book_lists: [4, 6],
@@ -206,7 +206,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1503250881/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1503250881&linkCode=as2&tag=flowoflearnin-20&linkId=eb6f673b621a6ec8d8be478a44fc4247"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1503250881&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1503250881" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Friedrich Nietzsche"],
     author_url: ["https://en.wikipedia.org/wiki/Friedrich_Nietzsche"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Germany",
     year_completion: 1886,
     book_lists: [5, 6],
@@ -220,7 +220,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1503251284/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1503251284&linkCode=as2&tag=flowoflearnin-20&linkId=c47297b0eb9ace5438e34ee7ebaa454a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1503251284&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1503251284" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Anna Sewell"],
     author_url: ["https://en.wikipedia.org/wiki/Anna_Sewell"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1877,
     book_lists: [4, 6],
@@ -234,7 +234,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0060850523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060850523&linkCode=as2&tag=flowoflearnin-20&linkId=6224af832047c2dd526e9aaca38ea29a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0060850523&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0060850523" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Aldous Huxley"],
     author_url: ["https://en.wikipedia.org/wiki/Aldous_Huxley"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1932,
     book_lists: [2, 5, 7],
@@ -248,7 +248,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486437914/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486437914&linkCode=as2&tag=flowoflearnin-20&linkId=a70329b71c2a23bd028fb8f47fc226fc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486437914&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486437914" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Fyodor Dostoevsky"],
     author_url: ["https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Russia",
     year_completion: 1880,
     book_lists: [3, 5, 7],
@@ -262,7 +262,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0140424385/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140424385&linkCode=as2&tag=flowoflearnin-20&linkId=7838df8db5fe7534761f7769b92fac4d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0140424385&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0140424385" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Geoffrey Chaucer"],
     author_url: ["https://en.wikipedia.org/wiki/Geoffrey_Chaucer"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1476,
     book_lists: [3, 7],
@@ -276,7 +276,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1451626657/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451626657&linkCode=as2&tag=flowoflearnin-20&linkId=05c36161bedd95e35a9ae9c77dc3c9f3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1451626657&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1451626657" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Joseph Heller"],
     author_url: ["https://en.wikipedia.org/wiki/Joseph_Heller"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1961,
     book_lists: [4, 7],
@@ -290,7 +290,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0061124958/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0061124958&linkCode=as2&tag=flowoflearnin-20&linkId=13e3355d677e3a84c45a80b8842513bf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0061124958&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0061124958" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["E. B. White"],
     author_url: ["https://en.wikipedia.org/wiki/E._B._White"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1952,
     book_lists: [4, 6],
@@ -304,7 +304,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0717802418/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0717802418&linkCode=as2&tag=flowoflearnin-20&linkId=f25fd9f6b24b4470b49be24bacd0d041"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0717802418&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0717802418" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Karl Marx", "Friedrich Engels"],
     author_url: ["https://en.wikipedia.org/wiki/Karl_Marx", "https://en.wikipedia.org/wiki/Friedrich_Engels"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Germany",
     year_completion: 1848,
     book_lists: [2, 6],
@@ -318,7 +318,7 @@ let _books = [
     book_image: `https://affiliate-program.amazon.com/home/productlinks/customize?asin=0385189516&request_source=quicklinks&subflow=sp_`,
     author: ["Hans Christian Andersen"],
     author_url: ["https://en.wikipedia.org/wiki/Hans_Christian_Andersen"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Denmark",
     year_completion: 1835,
     book_lists: [3, 6],
@@ -332,7 +332,7 @@ let _books = [
     book_image: ``,
     author: ["William Shakespeare"],
     author_url: ["https://en.wikipedia.org/wiki/William_Shakespeare"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1589 - 1616,
     book_lists: [2, 6],
@@ -346,7 +346,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486415872/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486415872&linkCode=as2&tag=flowoflearnin-20&linkId=096fbfed5a78460535d60c2e50822258"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486415872&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486415872" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Fyodor Dostoevsky"],
     author_url: ["https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Russia",
     year_completion: 1866,
     book_lists: [2, 3, 7],
@@ -360,7 +360,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0226805360/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0226805360&linkCode=as2&tag=flowoflearnin-20&linkId=3281828998c939684045fb361e278011"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0226805360&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0226805360" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Alexis de Tocqueville"],
     author_url: ["https://en.wikipedia.org/wiki/Alexis_de_Tocqueville"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "France",
     year_completion: 1835,
     book_lists: [2, 6],
@@ -374,7 +374,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0679734511/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679734511&linkCode=as2&tag=flowoflearnin-20&linkId=d63633192a43e91d8d63d9184d0875b0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0679734511&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0679734511" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Fyodor Dostoevsky"],
     author_url: ["https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Russia",
     year_completion: 1872,
     book_lists: [3, 5],
@@ -388,7 +388,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0553577123/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553577123&linkCode=as2&tag=flowoflearnin-20&linkId=90c6d30325a0ad9be5894b87b0a1deae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0553577123&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0553577123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Anne Frank"],
     author_url: ["https://en.wikipedia.org/wiki/Anne_Frank"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Netherlands",
     year_completion: 1947,
     book_lists: [2, 4, 6],
@@ -402,7 +402,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0142437220/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142437220&linkCode=as2&tag=flowoflearnin-20&linkId=97c0a3dbe7ccf2c46a110b95d09e4610"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0142437220&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0142437220" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Dante Alighieri"],
     author_url: ["https://en.wikipedia.org/wiki/Dante_Alighieri"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Italy",
     year_completion: 1472,
     book_lists: [2, 3, 4, 6, 7],
@@ -416,7 +416,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0142437239/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142437239&linkCode=as2&tag=flowoflearnin-20&linkId=4c2b0d7719253baabba96ca3ed1ec9e5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0142437239&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0142437239" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Miguel De Cervantes"],
     author_url: ["https://en.wikipedia.org/wiki/Miguel_de_Cervantes"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Spain",
     year_completion: 1605,
     book_lists: [1, 2, 3, 4, 6, 7],
@@ -430,7 +430,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1451673310/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451673310&linkCode=as2&tag=flowoflearnin-20&linkId=772a91a5a2832c5b1c26f4c45bfd327f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1451673310&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1451673310" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Ray Bradbury"],
     author_url: ["https://en.wikipedia.org/wiki/Ray_Bradbury"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1953,
     book_lists: [4, 7],
@@ -444,7 +444,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486821889/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486821889&linkCode=as2&tag=flowoflearnin-20&linkId=eedca31a755aa322b0331412796ec2d0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486821889&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486821889" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Johann Wolfgang von Goethe"],
     author_url: ["https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Germany",
     year_completion: 1790,
     book_lists: [2, 3, 6],
@@ -458,7 +458,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486496368/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486496368&linkCode=as2&tag=flowoflearnin-20&linkId=90eedce547594d5109d8a4f1db80cbdc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486496368&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486496368" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Alexander Hamilton", "James Madison", "John Jay"],
     author_url: ["https://en.wikipedia.org/wiki/Alexander_Hamilton", "https://en.wikipedia.org/wiki/James_Madison", "https://en.wikipedia.org/wiki/John_Jay"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1788,
     book_lists: [6, 7],
@@ -472,7 +472,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0684803356/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684803356&linkCode=as2&tag=flowoflearnin-20&linkId=7bb0c70ab0710e5a90d97577e47fb8bb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0684803356&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0684803356" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Ernest Hemingway"],
     author_url: ["https://en.wikipedia.org/wiki/Ernest_Hemingway"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1940,
     book_lists: [5, 7],
@@ -486,7 +486,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486282112/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486282112&linkCode=as2&tag=flowoflearnin-20&linkId=0f296bdf08035b8b84e48d66242b3896"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486282112&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486282112" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Mary Shelley"],
     author_url: ["https://en.wikipedia.org/wiki/Mary_Shelley"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1818,
     book_lists: [6, 7],
@@ -500,7 +500,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0451205766/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451205766&linkCode=as2&tag=flowoflearnin-20&linkId=34c13271c1e4cc985b13a4b1a36bace0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0451205766&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0451205766" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Mario Puzo"],
     author_url: ["https://en.wikipedia.org/wiki/Mario_Puzo"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1969,
     book_lists: [4, 7],
@@ -514,7 +514,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0143039431/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143039431&linkCode=as2&tag=flowoflearnin-20&linkId=882b626a0947117470cdd4dfdd1c49be"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0143039431&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0143039431" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["John Steinbeck"],
     author_url: ["https://en.wikipedia.org/wiki/John_Steinbeck"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1939,
     book_lists: [4, 5, 7],
@@ -528,7 +528,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0141439564/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0141439564&linkCode=as2&tag=flowoflearnin-20&linkId=c67e793aa4273117c38cb3f2cd696d7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0141439564&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0141439564" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Charles Dickens"],
     author_url: ["https://en.wikipedia.org/wiki/Charles_Dickens"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1861,
     book_lists: [3, 6],
@@ -542,7 +542,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0743273567/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743273567&linkCode=as2&tag=flowoflearnin-20&linkId=f13690ac1991d3e5f3be732e11db8f2f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0743273567&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0743273567" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["F. Scott Fitzgerald"],
     author_url: ["https://en.wikipedia.org/wiki/F._Scott_Fitzgerald"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1925,
     book_lists: [1, 4, 7],
@@ -556,7 +556,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0691160597/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691160597&linkCode=as2&tag=flowoflearnin-20&linkId=1d071ef0308a07388ee261179e745447"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0691160597&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0691160597" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Jacob Grimm", "Wilhelm Grimm"],
     author_url: ["https://en.wikipedia.org/wiki/Jacob_Grimm", "https://en.wikipedia.org/wiki/Wilhelm_Grimm"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Germany",
     year_completion: 1812,
     book_lists: [4, 6],
@@ -570,7 +570,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1784871516/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784871516&linkCode=as2&tag=flowoflearnin-20&linkId=1313ad6c81c6a4851eedfaa571530615"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1784871516&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1784871516" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Aleksandr Solzhenitsyn"],
     author_url: ["https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Soviet Union",
     year_completion: 1973,
     book_lists: [5, 6],
@@ -584,7 +584,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486292738/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486292738&linkCode=as2&tag=flowoflearnin-20&linkId=b89bad91d0eac40d5eee224a92fc7de0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486292738&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486292738" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Johnathan Swift"],
     author_url: ["https://en.wikipedia.org/wiki/Jonathan_Swift"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Ireland",
     year_completion: 1726,
     book_lists: [3, 6],
@@ -598,7 +598,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1420952145/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1420952145&linkCode=as2&tag=flowoflearnin-20&linkId=9e151f8b5d7b25aebb56f9a5abf7f861"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1420952145&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1420952145" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["William Shakespeare"],
     author_url: ["https://en.wikipedia.org/wiki/William_Shakespeare"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1603,
     book_lists: [2, 3, 6, 7],
@@ -612,7 +612,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1508480567/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1508480567&linkCode=as2&tag=flowoflearnin-20&linkId=f5364c5f2cb2cf6c71ad7c19b042e995"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1508480567&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1508480567" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Johanna Spyri"],
     author_url: ["https://en.wikipedia.org/wiki/Johanna_Spyri"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Switzerland",
     year_completion: 1880,
     book_lists: [4, 6],
@@ -626,7 +626,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/054792822X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=054792822X&linkCode=as2&tag=flowoflearnin-20&linkId=30b01dd74799f9320676a3d1a8c309ce"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=054792822X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=054792822X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["J. R. R. Tolkien"],
     author_url: ["https://en.wikipedia.org/wiki/J._R._R._Tolkien"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1937,
     book_lists: [4, 6, 7],
@@ -640,7 +640,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1565633253/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1565633253&linkCode=as2&tag=flowoflearnin-20&linkId=c401efcf92d829c514f1dc21eb9091dc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1565633253&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1565633253" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: [],
     author_url: [],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Israel and the Mediterranean Region",
     year_completion: "",
     book_lists: [2, 6, 7],
@@ -654,7 +654,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0671027034/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671027034&linkCode=as2&tag=flowoflearnin-20&linkId=7fe72a045de04bd535d27157f238ab72"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0671027034&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0671027034" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Dale Carnegie"],
     author_url: ["https://en.wikipedia.org/wiki/Dale_Carnegie"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1936,
     book_lists: [4, 7],
@@ -668,7 +668,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1853261750/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853261750&linkCode=as2&tag=flowoflearnin-20&linkId=35212146ba21480904f96ed4eee926e2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1853261750&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1853261750" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Fyodor Dostoevsky"],
     author_url: ["https://en.wikipedia.org/wiki/Fyodor_Dostoevsky"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Russia",
     year_completion: 1869,
     book_lists: [3, 5],
@@ -682,7 +682,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0140275363/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140275363&linkCode=as2&tag=flowoflearnin-20&linkId=e98dbe4405ce124a41ef114ac60279a1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0140275363&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0140275363" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Homer"],
     author_url: ["https://en.wikipedia.org/wiki/Homer"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Greece",
     year_completion: "762 BC",
     book_lists: [2, 3, 6, 7],
@@ -696,7 +696,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0142437964/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142437964&linkCode=as2&tag=flowoflearnin-20&linkId=cc4026fc038eecefcb0dd4eb13c1c495"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0142437964&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0142437964" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Marcel Proust"],
     author_url: ["https://en.wikipedia.org/wiki/Marcel_Proust"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "France",
     year_completion: 1913,
     book_lists: [2, 3],
@@ -710,7 +710,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0679732764/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679732764&linkCode=as2&tag=flowoflearnin-20&linkId=35f66a2fdb291429a86434c2044fedf2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0679732764&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0679732764" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Ralph Ellison"],
     author_url: ["https://en.wikipedia.org/wiki/Ralph_Ellison"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1952,
     book_lists: [1, 3, 7],
@@ -724,7 +724,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0553211404/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553211404&linkCode=as2&tag=flowoflearnin-20&linkId=3754cdd9eceb610a137815748b47b5e5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0553211404&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0553211404" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Charlotte Bronte"],
     author_url: ["https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1847,
     book_lists: [1, 6],
@@ -738,7 +738,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0553213296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553213296&linkCode=as2&tag=flowoflearnin-20&linkId=8311c3be3b46a4d4c1c900fcd4d97b0c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0553213296&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0553213296" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["James Fenimore Cooper"],
     author_url: ["https://en.wikipedia.org/wiki/James_Fenimore_Cooper"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1826,
     book_lists: [6, 7],
@@ -752,7 +752,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/045141943X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=045141943X&linkCode=as2&tag=flowoflearnin-20&linkId=4f8fe3a465a56569bd7a4965f0761ec5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=045141943X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=045141943X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Victor Hugo"],
     author_url: ["https://en.wikipedia.org/wiki/Victor_Hugo"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "France",
     year_completion: 1862,
     book_lists: [6, 7],
@@ -766,7 +766,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0140431950/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140431950&linkCode=as2&tag=flowoflearnin-20&linkId=72bb42dfdba185b63d7decf82cca2d1c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0140431950&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0140431950" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Thomas Hobbes"],
     author_url: ["https://en.wikipedia.org/wiki/Thomas_Hobbes"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1651,
     book_lists: [6, 7],
@@ -780,7 +780,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1678620386/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1678620386&linkCode=as2&tag=flowoflearnin-20&linkId=3c8a0fb11eaecdc26aad9d8f31b032ab"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1678620386&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1678620386" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Frederick Douglass"],
     author_url: ["https://en.wikipedia.org/wiki/Frederick_Douglass"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1845,
     book_lists: [2, 6],
@@ -794,7 +794,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1781395136/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1781395136&linkCode=as2&tag=flowoflearnin-20&linkId=6d7bc121fc559cf5397207f9050e39a6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1781395136&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1781395136" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Plutarch"],
     author_url: ["https://en.wikipedia.org/wiki/Plutarch"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Roman Empire",
     year_completion: "70 - 120 AD",
     book_lists: [6, 7],
@@ -808,7 +808,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0679723161/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679723161&linkCode=as2&tag=flowoflearnin-20&linkId=81025b4ebd6086039c93506220ce7845"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0679723161&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0679723161" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Vladimir Nabokov"],
     author_url: ["https://en.wikipedia.org/wiki/Vladimir_Nabokov"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Soviet Union",
     year_completion: 1955,
     book_lists: [3, 4],
@@ -822,7 +822,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0394757688/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0394757688&linkCode=as2&tag=flowoflearnin-20&linkId=09fb6e748a9e13c6e9ce73677a5822dd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0394757688&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0394757688" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Raymond Chandler"],
     author_url: ["https://en.wikipedia.org/wiki/Raymond_Chandler"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1953,
     book_lists: [5, 6],
@@ -836,7 +836,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0399501487/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0399501487&linkCode=as2&tag=flowoflearnin-20&linkId=0499473f57bb7ec57fcdf1b3590fdf76"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0399501487&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0399501487" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["William Golding"],
     author_url: ["https://en.wikipedia.org/wiki/William_Golding"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1954,
     book_lists: [5, 7],
@@ -850,7 +850,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0345538374/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345538374&linkCode=as2&tag=flowoflearnin-20&linkId=0f3aac0b5f17db1ec9a531e77fd79a65"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0345538374&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0345538374" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["J. R. R. Tolkien"],
     author_url: ["https://en.wikipedia.org/wiki/J._R._R._Tolkien"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1954,
     book_lists: [2, 4, 6, 7],
@@ -864,7 +864,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/014310649X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014310649X&linkCode=as2&tag=flowoflearnin-20&linkId=e46471b8f8f7269e233959ede62180f5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=014310649X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=014310649X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Gustave Flaubert"],
     author_url: ["https://en.wikipedia.org/wiki/Gustave_Flaubert"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "France",
     year_completion: 1856,
     book_lists: [2, 3],
@@ -878,7 +878,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0679722645/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679722645&linkCode=as2&tag=flowoflearnin-20&linkId=22682cfe5ecca6f6d63fac82ac5be0b0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0679722645&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0679722645" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Dashiell Hammett"],
     author_url: ["https://en.wikipedia.org/wiki/Dashiell_Hammett"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1929,
     book_lists: [5, 7],
@@ -892,7 +892,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0807014273/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0807014273&linkCode=as2&tag=flowoflearnin-20&linkId=f5a15e56b7ff0885f41e0e2bfc0a2ecd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0807014273&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0807014273" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Viktor Frankl"],
     author_url: ["https://en.wikipedia.org/wiki/Viktor_Frankl"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Austria",
     year_completion: 1946,
     book_lists: [4, 5, 7],
@@ -906,7 +906,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0143108271/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143108271&linkCode=as2&tag=flowoflearnin-20&linkId=a2abe6307100328fc1ccc7792419a104"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0143108271&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0143108271" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Mikhail Bulgakov"],
     author_url: ["https://en.wikipedia.org/wiki/Mikhail_Bulgakov"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Soviet Union",
     year_completion: 1967,
     book_lists: [4, 5, 7],
@@ -920,7 +920,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0812968255/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812968255&linkCode=as2&tag=flowoflearnin-20&linkId=5faebce838b70508fad0c0b8b70f3a42"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0812968255&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0812968255" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Marcus Aurelius"],
     author_url: ["https://en.wikipedia.org/wiki/Marcus_Aurelius"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Roman Empire",
     year_completion: "161 - 180 AD",
     book_lists: [6, 7],
@@ -934,7 +934,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/B00726OT20/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00726OT20&linkCode=as2&tag=flowoflearnin-20&linkId=eaf2d87e5deafbb9ed9777a55b152d60"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00726OT20&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=B00726OT20" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Herman Melville"],
     author_url: ["https://en.wikipedia.org/wiki/Herman_Melville"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1851,
     book_lists: [2, 3, 6, 7],
@@ -948,7 +948,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1781398186/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1781398186&linkCode=as2&tag=flowoflearnin-20&linkId=a40b2bfa068980e8a6bd43270a1090cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1781398186&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1781398186" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Virginia Woolf"],
     author_url: ["https://en.wikipedia.org/wiki/Virginia_Woolf"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1925,
     book_lists: [1, 3],
@@ -962,7 +962,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/006083756X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=006083756X&linkCode=as2&tag=flowoflearnin-20&linkId=c17a82584ec035e156a4eb08d1df6666"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=006083756X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=006083756X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Richard Wright"],
     author_url: ["https://en.wikipedia.org/wiki/Richard_Wright_(author)"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1940,
     book_lists: [2, 7],
@@ -976,7 +976,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1420953648/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1420953648&linkCode=as2&tag=flowoflearnin-20&linkId=900584882587405f57a727cc211781df"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1420953648&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1420953648" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Aristotle"],
     author_url: ["https://en.wikipedia.org/wiki/Aristotle"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Greece",
     year_completion: "4th Century BC",
     book_lists: [6, 7],
@@ -990,7 +990,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0140268863/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140268863&linkCode=as2&tag=flowoflearnin-20&linkId=e1f85834bd39233aa627df3f0d8671fa"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0140268863&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0140268863" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Homer"],
     author_url: ["https://en.wikipedia.org/wiki/Homer"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Greece",
     year_completion: "8th Century BC",
     book_lists: [2, 3, 6, 7],
@@ -1004,7 +1004,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/015602764X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=015602764X&linkCode=as2&tag=flowoflearnin-20&linkId=85ad37e0c67ae30835ddf6792b1e1edd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=015602764X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=015602764X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Sophocles"],
     author_url: ["https://en.wikipedia.org/wiki/Sophocles"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Greece",
     year_completion: "429 BC",
     book_lists: [3, 6],
@@ -1018,7 +1018,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0684801221/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0684801221&linkCode=as2&tag=flowoflearnin-20&linkId=70e6c1faf679a6b1cc7161801d75ca29"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0684801221&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0684801221" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Ernest Hemingway"],
     author_url: ["https://en.wikipedia.org/wiki/Ernest_Hemingway"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1952,
     book_lists: [3, 4, 5],
@@ -1032,7 +1032,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486421309/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486421309&linkCode=as2&tag=flowoflearnin-20&linkId=e76c7c64f69ccc548b25820cc5c3d8c4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486421309&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486421309" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["John Stuart Mill"],
     author_url: ["https://en.wikipedia.org/wiki/John_Stuart_Mill"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1859,
     book_lists: [2, 6],
@@ -1046,7 +1046,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1097881709/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1097881709&linkCode=as2&tag=flowoflearnin-20&linkId=00e5babe33ae9624b1683a6e26955b3c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1097881709&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1097881709" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Henry David Thoreau"],
     author_url: ["https://en.wikipedia.org/wiki/Henry_David_Thoreau"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1949,
     book_lists: [2, 6, 7],
@@ -1060,7 +1060,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0060883286/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060883286&linkCode=as2&tag=flowoflearnin-20&linkId=1b4822f5a24652b63e2479ae03e88bbb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0060883286&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0060883286" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Gabriel Garcia Marquez"],
     author_url: ["https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Colombia",
     year_completion: 1967,
     book_lists: [1, 2, 3, 4, 7],
@@ -1074,7 +1074,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/014240733X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014240733X&linkCode=as2&tag=flowoflearnin-20&linkId=7a0094ef380fa91a9a7d9a8b10edfa3f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=014240733X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=014240733X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["S. E. Hinton"],
     author_url: ["https://en.wikipedia.org/wiki/S._E._Hinton"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1967,
     book_lists: [4, 7],
@@ -1088,7 +1088,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1724680447/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1724680447&linkCode=as2&tag=flowoflearnin-20&linkId=75c70c9f5671037013cdb1d94e243360"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1724680447&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1724680447" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Isaac Newton"],
     author_url: ["https://en.wikipedia.org/wiki/Isaac_Newton"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1687,
     book_lists: [2, 6],
@@ -1102,7 +1102,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0141439513/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0141439513&linkCode=as2&tag=flowoflearnin-20&linkId=ab3914af2c55e4b71525deaed2f3062e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0141439513&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0141439513" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Jane Austen"],
     author_url: ["https://en.wikipedia.org/wiki/Jane_Austen"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1813,
     book_lists: [3, 4, 6, 7],
@@ -1116,7 +1116,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1514649314/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1514649314&linkCode=as2&tag=flowoflearnin-20&linkId=7428bb7c3a9ebe706df10fc599a7850a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1514649314&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1514649314" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Niccolo Machiavelli"],
     author_url: ["https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Italy",
     year_completion: 1532,
     book_lists: [2, 6, 7],
@@ -1130,7 +1130,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0140447644/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0140447644&linkCode=as2&tag=flowoflearnin-20&linkId=dd748d91ed80f4ef89386e4666d52bd6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0140447644&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0140447644" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Stendhal"],
     author_url: ["https://en.wikipedia.org/wiki/Stendhal"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "France",
     year_completion: 1830,
     book_lists: [3, 5],
@@ -1144,7 +1144,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/B01C4MLVGS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C4MLVGS&linkCode=as2&tag=flowoflearnin-20&linkId=e8add8312df18bc0037638b502ac1652"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C4MLVGS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=B01C4MLVGS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Plato"],
     author_url: ["https://en.wikipedia.org/wiki/Plato"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Greece",
     year_completion: "375 BC",
     book_lists: [2, 7],
@@ -1158,7 +1158,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/150329238X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=150329238X&linkCode=as2&tag=flowoflearnin-20&linkId=352924555540d360ea3ed72efa2e9985"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=150329238X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=150329238X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Daniel Defoe"],
     author_url: ["https://en.wikipedia.org/wiki/Daniel_Defoe"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1719,
     book_lists: [6, 7],
@@ -1172,7 +1172,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1451639619/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451639619&linkCode=as2&tag=flowoflearnin-20&linkId=1b63c70a99ac6a4e8b1d3a48a3e72619"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1451639619&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1451639619" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Stephen R. Covey"],
     author_url: ["https://en.wikipedia.org/wiki/Stephen_Covey"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1989,
     book_lists: [4, 6, 7],
@@ -1186,7 +1186,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0679720200/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679720200&linkCode=as2&tag=flowoflearnin-20&linkId=41b9ca981a0af4ece7c954c79ed85fa6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0679720200&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0679720200" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Albert Camus"],
     author_url: ["https://en.wikipedia.org/wiki/Albert_Camus"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "France",
     year_completion: 1942,
     book_lists: [3, 4, 7],
@@ -1200,7 +1200,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1514694395/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1514694395&linkCode=as2&tag=flowoflearnin-20&linkId=137db159bf9a9d053ee4aa5b211793ed"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1514694395&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1514694395" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Johann David Wyss"],
     author_url: ["https://en.wikipedia.org/wiki/Johann_David_Wyss"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Switzerland",
     year_completion: 1812,
     book_lists: [6, 7],
@@ -1214,7 +1214,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/4805314648/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=4805314648&linkCode=as2&tag=flowoflearnin-20&linkId=57f31b0dd93e419b7a7aaf8ca20ffc79"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=4805314648&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=4805314648" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Murasaki Shikibu"],
     author_url: ["https://en.wikipedia.org/wiki/Murasaki_Shikibu"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Japan",
     year_completion: "11th Century",
     book_lists: [2, 3],
@@ -1228,7 +1228,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0486406512/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486406512&linkCode=as2&tag=flowoflearnin-20&linkId=966d7d2caf4cc5be5079812f702abdd1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0486406512&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0486406512" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Charles Dickens"],
     author_url: ["https://en.wikipedia.org/wiki/Charles_Dickens"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1859,
     book_lists: [4, 6, 7],
@@ -1242,7 +1242,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0385474547/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385474547&linkCode=as2&tag=flowoflearnin-20&linkId=3c892875d7c46b99c2f1e6308fc623f9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385474547&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0385474547" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Chinua Achebe"],
     author_url: ["https://en.wikipedia.org/wiki/Chinua_Achebe"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Nigeria",
     year_completion: 1958,
     book_lists: [1, 2, 3, 4],
@@ -1256,7 +1256,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0060935464/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060935464&linkCode=as2&tag=flowoflearnin-20&linkId=77244e61d800ee6ff1874414fb1d0bb6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0060935464&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0060935464" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Harper Lee"],
     author_url: ["https://en.wikipedia.org/wiki/Harper_Lee"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1960,
     book_lists: [1, 4, 5, 7],
@@ -1270,7 +1270,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1514650460/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1514650460&linkCode=as2&tag=flowoflearnin-20&linkId=253eceffc86c664099d3dcc502604a49"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1514650460&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1514650460" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Robert Louis Stevenson"],
     author_url: ["https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1882,
     book_lists: [6, 7],
@@ -1284,7 +1284,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1840226358/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1840226358&linkCode=as2&tag=flowoflearnin-20&linkId=28c769c58f7ebdaf07314370326b28ea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1840226358&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1840226358" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["James Joyce"],
     author_url: ["https://en.wikipedia.org/wiki/James_Joyce"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Ireland",
     year_completion: 1922,
     book_lists: [3, 7],
@@ -1298,7 +1298,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0451530802/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451530802&linkCode=as2&tag=flowoflearnin-20&linkId=f2a713316c1bcebd5959377c4d82ba68"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0451530802&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0451530802" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Harriet Beecher Stowe"],
     author_url: ["https://en.wikipedia.org/wiki/Harriet_Beecher_Stowe"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1852,
     book_lists: [2, 6],
@@ -1312,7 +1312,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1853260622/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1853260622&linkCode=as2&tag=flowoflearnin-20&linkId=d729eccf25f46ea42fc066806a73f225"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1853260622&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1853260622" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Leo Tolstoy"],
     author_url: ["https://en.wikipedia.org/wiki/Leo_Tolstoy"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Russia",
     year_completion: 1869,
     book_lists: [2, 3, 4, 5, 6],
@@ -1326,7 +1326,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1505577128/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505577128&linkCode=as2&tag=flowoflearnin-20&linkId=30c77b709b0d3f7ac9af11f19c0e5720"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1505577128&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1505577128" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Adam Smith"],
     author_url: ["https://en.wikipedia.org/wiki/Adam_Smith"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1776,
     book_lists: [2, 6, 7],
@@ -1340,7 +1340,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1949460479/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1949460479&linkCode=as2&tag=flowoflearnin-20&linkId=be80744d82932c19ab9366396433a383"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1949460479&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1949460479" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Kenneth Grahame"],
     author_url: ["https://en.wikipedia.org/wiki/Kenneth_Grahame"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1908,
     book_lists: [4, 6],
@@ -1354,7 +1354,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0141439556/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0141439556&linkCode=as2&tag=flowoflearnin-20&linkId=8c245adc9fe0c5eef48ca5230f84eb91"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0141439556&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0141439556" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Emily Brontë"],
     author_url: ["https://en.wikipedia.org/wiki/Emily_Bront%C3%AB"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
     year_completion: 1847,
     book_lists: [3, 5, 6],
@@ -1368,7 +1368,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0060839872/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060839872&linkCode=as2&tag=flowoflearnin-20&linkId=9432e9a7a151abcecac8b63ec7ec297d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0060839872&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0060839872" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Robert Pirsig"],
     author_url: ["https://en.wikipedia.org/wiki/Robert_M._Pirsig"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "United States",
     year_completion: 1974,
     book_lists: [5, 7],
@@ -1382,7 +1382,7 @@ let _books = [
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/1476782814/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476782814&linkCode=as2&tag=flowoflearnin-20&linkId=9cc3061b160e5236aef27216b2605b0a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1476782814&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=1476782814" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Nikos Kazantzakis"],
     author_url: ["https://en.wikipedia.org/wiki/Nikos_Kazantzakis"],
-    estimated_reading_time: ,
+    /*estimated_reading_time: ,*/
     national_origin: "Greece",
     year_completion: 1946,
     book_lists: [3, 5],

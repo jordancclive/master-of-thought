@@ -36,11 +36,12 @@ app.get("/beliefs", (req, res, next) => {
 app.get("/books", (req, res, next) => {
   var name = "Books";
   var booksData = booksDb.getBookByNoList();
-  res.render("books", { booksData });
+  res.render("books", { booksData, name });
 });
 
 app.get("/books/:page_name", (req, res, next) => {
   let obj = booksDb.getBookByNoList();
+  let _book_lists = booksDb._book_lists;
   let nextBook;
   let prevBook;
   let currBook;
@@ -51,22 +52,26 @@ app.get("/books/:page_name", (req, res, next) => {
   keys.forEach((key, keyIndex) => {
     obj[key].forEach((ele, i) => {
       if (ele.page_name == req.params.page_name) {
-        currBook = ele;
+        currBook = {
+          ...ele,
+          _book_lists: _book_lists.filter((lst) =>
+            ele.book_lists.includes(lst.no)
+          ),
+        };
         nextBook =
-        i != obj[key].length - 1
-        ? obj[key][i + 1]
-        : keyIndex != 0 && obj[keyIndex + 1][0];
+          i != obj[key].length - 1
+            ? obj[key][i + 1]
+            : keyIndex != 0 && keys[keyIndex + 1][0];
         prevBook =
-        i != 0
-        ? obj[key][i - 1]
-        : keyIndex != keys.length - 1 &&
-        obj[keys[keyIndex + 1]][obj[keys[keyIndex + 1]].length - 1];
+          i != 0
+            ? obj[key][i - 1]
+            : keyIndex != keys.length - 1 &&
+              obj[keys[keyIndex + 1]][obj[keys[keyIndex + 1]].length - 1];
       }
     });
   });
-
   const name = currBook.name;
-    res.render("book", {
+  res.render("book", {
     name,
     currBook,
     nextBook,

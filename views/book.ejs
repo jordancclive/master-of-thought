@@ -6,26 +6,36 @@
       <div class="navigation_box">
         <h3 class="navigation">
           <% if (prevBook) { %>
-            <a href="/books/<%= prevBook.page_name %>"><</a> <% } %> <% if
-            (nextBook) { %> | <a href="/books/<%= nextBook.page_name %>"> > </a><%
+          <a href="/books/<%= prevBook.page_name %>"><</a> <% } %> <% if
+          (nextBook) { %> | <a href="/books/<%= nextBook.page_name %>"> > </a><%
           } %>
         </h3>
       </div>
       <h1 class="text-center">
         <%= currBook.name %>
       </h1>
-      <br>
-      <%- include(`./books/${currBook.page_name}.html`, {title: name}) %>
-      <%- currBook.book_image %>
-      <p><% if (currBook.author.length) { %>by <a href="<%= currBook.author_url %>"><%= currBook.author %></a>, <% } %>
-        <% if (currBook.year_completion) { %><%= currBook.year_completion %>, <% } %>
-        <% if (currBook.national_origin) { %><%= currBook.national_origin %><% } %></p>
+      <br />
+      <%- include(`./books/${currBook.page_name}.html`, {title: name}) %> <%-
+      currBook.book_image %>
+      <p>
+        <% if (currBook.author.length) { %>by
+        <a href="<%= currBook.author_url %>"><%= currBook.author %></a>, <% } %>
+        <% if (currBook.year_completion) { %><%= currBook.year_completion %>, <%
+        } %> <% if (currBook.national_origin) { %><%= currBook.national_origin
+        %><% } %>
+      </p>
       <p><a href="<%= currBook.audible_url %>">Audible Version</a></p>
-
+      <ul>
+        <% currBook._book_lists.forEach(ele => { %>
+        <li>
+          <%= ele.list_source %>'s
+          <a href="<%= ele.list_url%>"><%= ele.list_name%></a>
+        </li>
+        <% }) %>
+      </ul>
       <div class="spacer"></div>
 
       <%- include("./footer") %>
-
     </div>
   </body>
 </html>

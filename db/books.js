@@ -191,7 +191,7 @@ let _books = [
     audible_url:
       "https://www.amazon.com/gp/product/B007HCVQW0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=B007HCVQW0&linkId=807cdfa248ed68fc00d6ec76c9ad1084",
     book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0812972147/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972147&linkCode=as2&tag=flowoflearnin-20&linkId=34d07bd571dd10bcac5427f44c327ed3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0812972147&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0812972147" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
-    author: [""],
+    author: [],
     author_url: [],
     /*estimated_reading_time: ,*/
     national_origin: "Middle East",

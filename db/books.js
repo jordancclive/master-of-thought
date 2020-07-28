@@ -187,11 +187,11 @@ let _books = [
     id: 8,
     name: "The Arabian Nights",
     url:
-      "https://www.amazon.com/gp/product/0812972147/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=0812972147&linkId=1bbdf667e321d15685cc6cc694909b5d",
+      "https://www.amazon.com/gp/product/0812972147/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=0812972147&linkId=44d83c37d2b92c6dd9674e1300dce7dd",
     audible_url:
       "https://www.amazon.com/gp/product/B007HCVQW0/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=B007HCVQW0&linkId=807cdfa248ed68fc00d6ec76c9ad1084",
-    book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/B08CZVR4BK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08CZVR4BK&linkCode=as2&tag=flowoflearnin-20&linkId=914d71c2668d0f16ddcfab1497b15650"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B08CZVR4BK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=B08CZVR4BK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
-    author: ["Unknown"],
+    book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0812972147/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812972147&linkCode=as2&tag=flowoflearnin-20&linkId=34d07bd571dd10bcac5427f44c327ed3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0812972147&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0812972147" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
+    author: [""],
     author_url: [],
     /*estimated_reading_time: ,*/
     national_origin: "Middle East",

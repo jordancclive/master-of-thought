@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="293" viewBox="0 0 316 293">
+  <g id="VocabularyLifeOutcomesPlot" transform="translate(48 -247)">
+    <line id="Line_6" data-name="Line 6" y2="250.001" transform="translate(19 247)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_2" data-name="Path 2" d="M250,0H0" transform="translate(18 497)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+    <path id="Path_3" data-name="Path 3" d="M249.751,0H0" transform="translate(54.576 460.425) rotate(-45)" fill="rgba(0,0,0,0)" stroke="#707070" stroke-width="2"/>
+    <text id="Life_Outcomes" data-name="Life
+Outcomes" transform="translate(-30 372) rotate(-90)" fill="#303030" font-size="18" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="-16.493" y="0">Life</tspan><tspan x="-43.405" y="23">Outcomes</tspan></text>
+    <text id="Vocabulary" transform="translate(143 535)" fill="#303030" font-size="18" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="-47.773" y="0">Vocabulary</tspan></text>
+  </g>
+</svg>

@@ -3,29 +3,54 @@
 
   <body>
     <div class="container">
+      <%- include("./nav") %>
       <div class="navigation_box">
         <h3 class="navigation">
           <% if (prevBook) { %>
-            <a href="/books/<%= prevBook.page_name %>"><</a> <% } %> <% if
-            (nextBook) { %> | <a href="/books/<%= nextBook.page_name %>"> > </a><%
+          <a href="/books/<%= prevBook.page_name %>"><</a> <% } %> <% if
+          (nextBook) { %> | <a href="/books/<%= nextBook.page_name %>"> > </a><%
           } %>
         </h3>
       </div>
       <h1 class="text-center">
         <%= currBook.name %>
       </h1>
-      <br>
-      <%- include(`./books/${currBook.page_name}.html`, {title: name}) %>
-      <%- currBook.book_image %>
-      <p><% if (currBook.author.length) { %>by <a href="<%= currBook.author_url %>"><%= currBook.author %></a>, <% } %>
-        <% if (currBook.year_completion) { %><%= currBook.year_completion %>, <% } %>
-        <% if (currBook.national_origin) { %><%= currBook.national_origin %><% } %></p>
-      <p><a href="<%= currBook.audible_url %>">Audible Version</a></p>
+      <br />
 
+      <div class="amazon-image">
+        <%- currBook.book_image %>
+      </div>
+      <div class="about-book">
+        <h4 class="text-center">About <%= currBook.name %></h4>
+        <p class="text-center">
+          <% if (currBook.author.length) { %>
+            By <a href="<%= currBook.author_url %>"><%= currBook.author %></a><br>
+          <% } %>
+          <% if (currBook.year_completion) { %>
+            Published <%= currBook.year_completion %><br>
+          <% } %>
+          <% if (currBook.national_origin) { %>
+            <%= currBook.national_origin %>
+          <% } %>
+        </p>
+        <p class="text-center"><a href="<%= currBook.audible_url %>">Audible Version</a></p>
+      </div>
       <div class="spacer"></div>
 
-      <%- include("./footer") %>
+      <%- include(`./books/${currBook.page_name}.html`, {title: name}) %>
+      <div class="spacer"></div>
 
+      <h2>Book List Appearances</h2>
+      <ul>
+        <% currBook._book_lists.forEach(ele => { %>
+        <li>
+          <%= ele.list_source %>'s
+          <a href="<%= ele.list_url%>"><%= ele.list_name%></a>
+        </li>
+        <% }) %>
+      </ul>
+
+      <%- include("./footer") %>
     </div>
   </body>
 </html>

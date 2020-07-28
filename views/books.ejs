@@ -5,6 +5,31 @@
     <div class="container">
       <%- include("./nav") %>
       <h1 class="text-center">Books</h1>
+      <div class="spacer"></div>
+
+      <center>
+        <img src="books.png" />
+      </center>
+      <br>
+
+      <blockquote class="main-quote text-center">
+        A man's mind may be likened to a garden, which may be intelligently cultivated or allowed to run wild; but whether cultivated or neglected, it must, and will, <em>bring forth.</em>
+      </blockquote>
+      <p class="text-center">- <em>As a Man Thinketh</em></p>
+      <br>
+
+      <h2>The Most Noteworthy Books of All Time</h2>
+      <p>To reduce the likelihood of anyone’s biases, objectives, or blind spots affecting this list too much, only books that appeared in at least two of the following lists are included in this compilation:</p>
+      <ol>
+        <li>Encyclopedia Brittanica's <em><a href="https://www.britannica.com/list/12-novels-considered-the-greatest-book-ever-written">12 Novels Considered the "Greatest Book Ever Written"</a></em></li>
+        <li>Open Education Database's <em><a href="https://oedb.org/ilibrarian/50_books_that_changed_the_world/">50 Most Influential Books of All Time</a></em></li>
+        <li>Bokklubben World Library's <em><a href="https://en.wikipedia.org/wiki/Bokklubben_World_Library">100 Best Books of All Time</a></em></li>
+        <li>Wikipedia's <em><a href="https://en.wikipedia.org/wiki/List_of_best-selling_books">Best-Selling Books</a></em></li>
+        <li>Jordan Peterson's <em><a href="https://www.jordanbpeterson.com/great-books/">Great Books List</a></em></li>
+        <li>Thomas Jefferson Education's <em><a href="https://tjed.org/resources/classics/">Classics</a></em></li>
+        <li>Art of Manliness's <em><a href="https://www.artofmanliness.com/articles/100-books-every-man-read/">100 Books Every Man Should Read</a></em></li>
+      </ol>
+      <br>
 
       <% Object.keys(booksData).reverse().forEach(function(key){ %>
       <h2><%= key %></h2>

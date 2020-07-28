@@ -10,16 +10,16 @@ body {
   float: none !important;
 }
 
-.border-frame {
+/* .border-frame {
   background-image: url("borderframe.png"), url("light-paper-fibers.jpg");
   background-repeat: no-repeat, repeat;
   background-position: center;
-}
+} */
 
 /*
-Red: #BD2031
-Maroon: #8A1723
-Creamy Pink: #C85E68
+Teal: #008080
+Dark Teal: #004D4D
+Light Teal: #3DCCCC
 White: #FCFCFC
 Black: 303030
 Grey: #707070
@@ -35,7 +35,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #BD2031;
+  color: #008080;
   font-size: 40px;
 }
 
@@ -46,6 +46,11 @@ h3 {
 .pretitle {
   font-size: 30px;
   line-height: 0.9;
+}
+
+.btn {
+  border: none;
+  padding: 0px 0px;
 }
 
 .title {
@@ -59,11 +64,18 @@ a {
 }
 
 a:hover {
-  color: #C85E68;
+  color: #3DCCCC;
 }
 
 hr {
   width: 90%;
+}
+
+.header-menu {
+  border-bottom: 1px solid #fcfcfc;
+  display: block;
+  margin: 0px 0px 30px 0px;
+  padding: 0px 0px 10px 0px;
 }
 
 .home-logo {
@@ -71,8 +83,12 @@ hr {
   height: auto;
 }
 
-.home-logo:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+ul {
+  margin-bottom: 0px;
+}
+
+.dropdown-toggle::after {
+  margin-left: 3px;
 }
 
 ul.global-nav {
@@ -83,7 +99,38 @@ ul.global-nav {
 ul.global-nav li {
   float: right;
   clear: none;
-  margin: 5px 0px;
+  margin: 5px 0px 0px 15px;
+}
+
+.dropdown-menu {
+  padding: 5px 5px 14px 5px;
+  width: 180px;
+}
+
+.dropdown-menu li {
+  float: left !important;
+  margin: 20px 0px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.about-book {
+  display: block;
+  width: 275px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+  padding: 15px 0px 0px;
+  border: 2px solid #004D4D;
+  background-color: rgba(61, 204, 204, 0.3);
+}
+
+.amazon-image {
+  display: inline-block;
+  margin: 0px auto 20px auto;
+  clear: both;
 }
 
 .navigation_box {
@@ -108,7 +155,7 @@ p, blockquote, li {
 }
 
 blockquote {
-  border-left: 2px solid #BD2031;
+  border-left: 2px solid #008080;
   margin: auto;
   max-width: 350px;
   padding: 0px 15px;
@@ -125,7 +172,7 @@ li.book-list {
 }
 
 .firstcharacter {
-  color: #BD2031;
+  color: #008080;
   float: left;
   font-size: 300%;
   line-height: 80%;
@@ -147,6 +194,23 @@ li.book-list {
 
 .spacer {
   height: 50px;
+}
+
+@media only screen and (min-width: 450px) {
+  .about-book {
+    display: block;
+    position: relative;
+    padding: 15px 0px 0px;
+    border: 2px solid #004D4D;
+    margin: 0px 0px 20px 200px;
+    background-color: rgba(0, 128, 128, 0.3);
+  }
+
+  .amazon-image {
+    float: left;
+    clear: right;
+    margin: 0px 20px 20px 0px;
+  }
 }
 
 @media only screen and (min-width: 768px) {

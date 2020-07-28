@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="372" height="319" viewBox="0 0 372 319">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="78" height="250" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_2019GDPPerLanguage" data-name="2019GDPPerLanguage" transform="translate(0 -20)">
+    <g id="scale" transform="translate(17 24)">
+      <line id="Line_1" data-name="Line 1" x2="280.5" transform="translate(74 60)" fill="#3d1d20" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" y1="5" transform="translate(74 55)" fill="#3d1d20" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" y1="5" transform="translate(354 55)" fill="#3d1d20" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" y1="5" transform="translate(214 55)" fill="#3d1d20" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <text id="_0" data-name="0" transform="translate(74 52)" fill="#303030" font-size="12" font-family="Lora-Regular, Lora"><tspan x="-7.453" y="0">0</tspan></text>
+      <text id="_38_Trillion" data-name="38 Trillion" transform="translate(354 52)" fill="#303030" font-size="12" font-family="Lora-Regular, Lora"><tspan x="-56.859" y="0">38 Trillion</tspan></text>
+      <text id="_19_Trillion" data-name="19 Trillion" transform="translate(214 52)" fill="#303030" font-size="12" font-family="Lora-Regular, Lora"><tspan x="-54.732" y="0">19 Trillion</tspan></text>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(0 89)" clip-path="url(#clip-path)">
+      <g transform="translate(0 -65)">
+        <text id="English" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">English</tspan></text>
+      </g>
+      <g transform="translate(0 -39)">
+        <text id="Mandarin" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Mandarin</tspan></text>
+      </g>
+      <g transform="translate(0 -13)">
+        <text id="French" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">French</tspan></text>
+      </g>
+      <g transform="translate(0 13)">
+        <text id="Japanese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Japanese</tspan></text>
+      </g>
+      <g transform="translate(0 39)">
+        <text id="Spanish" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Spanish</tspan></text>
+      </g>
+      <g transform="translate(0 65)">
+        <text id="German" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">German</tspan></text>
+      </g>
+      <g transform="translate(0 91)">
+        <text id="Arabic" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Arabic</tspan></text>
+      </g>
+      <g transform="translate(0 117)">
+        <text id="Hindi" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Hindi</tspan></text>
+      </g>
+      <g transform="translate(0 143)">
+        <text id="Russian" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Russian</tspan></text>
+      </g>
+      <g transform="translate(0 169)">
+        <text id="Portuguese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Portuguese</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="276" height="16" transform="translate(91 89)" fill="#004d4d"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="110" height="16" transform="translate(91 115)" fill="#004d4d"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="42" height="16" transform="translate(91 141)" fill="#004d4d"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="38" height="16" transform="translate(91 167)" fill="#004d4d"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="35" height="16" transform="translate(91 193)" fill="#004d4d"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="32" height="16" transform="translate(91 219)" fill="#004d4d"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="24" height="16" transform="translate(91 245)" fill="#004d4d"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="21" height="16" transform="translate(91 271)" fill="#004d4d"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="16" height="16" transform="translate(91 297)" fill="#004d4d"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="16" height="16" transform="translate(91 323)" fill="#004d4d"/>
+    <text id="_37.5" data-name="37.5" transform="translate(96 102)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">37.5</tspan></text>
+    <text id="_14.9" data-name="14.9" transform="translate(96 128)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">14.9</tspan></text>
+    <text id="_5.7" data-name="5.7" transform="translate(96 154)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">5.7</tspan></text>
+    <text id="_3.2" data-name="3.2" transform="translate(135 258)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">3.2</tspan></text>
+    <text id="_2.9" data-name="2.9" transform="translate(132 284)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">2.9</tspan></text>
+    <text id="_2.2" data-name="2.2" transform="translate(127 310)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">2.2</tspan></text>
+    <text id="_2.2-2" data-name="2.2" transform="translate(127 336)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">2.2</tspan></text>
+    <text id="_2019_GDP_Per_Language" data-name="2019 GDP Per Language" transform="translate(188 38)" fill="#303030" font-size="18" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="-101.43" y="0">2019 GDP Per Language</tspan></text>
+    <text id="_5.1" data-name="5.1" transform="translate(96 180)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">5.1</tspan></text>
+    <text id="_4.7" data-name="4.7" transform="translate(96 206)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">4.7</tspan></text>
+    <text id="_4.3" data-name="4.3" transform="translate(96 232)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">4.3</tspan></text>
+  </g>
+</svg>

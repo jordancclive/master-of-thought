@@ -1,61 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="373" height="349" viewBox="0 0 373 349">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="372" height="345" viewBox="0 0 372 345">
   <defs>
     <clipPath id="clip-path">
       <rect width="78" height="276" fill="none"/>
     </clipPath>
   </defs>
-  <g id="InternetUsersByLanguage" transform="translate(0 -16)">
+  <g id="InternetUsersByLanguage" transform="translate(0 -20)">
     <g id="scale" transform="translate(17 24)">
-      <path id="Union_1" data-name="Union 1" d="M280,5H0V5H140V5H280V5h0Z" transform="translate(74 55)" fill="#3d1d20" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
-      <text id="_0" data-name="0" transform="translate(74 52)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="-7.74" y="0">0</tspan></text>
-      <text id="_1.2_Billion" data-name="1.2 Billion" transform="translate(356 52)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="-65.064" y="0">1.2 Billion</tspan></text>
-      <text id="_0.6_Billion" data-name="0.6 Billion" transform="translate(217 52)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="-68.784" y="0">0.6 Billion</tspan></text>
+      <line id="Line_1" data-name="Line 1" x2="280.5" transform="translate(74 60)" fill="#303030" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" y1="5" transform="translate(74 55)" fill="#303030" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" y1="5" transform="translate(354 55)" fill="#303030" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" y1="5" transform="translate(214 55)" fill="#303030" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+      <text id="_0" data-name="0" transform="translate(74 52)" fill="#303030" font-size="12" font-family="Lora-Regular, Lora"><tspan x="-7.453" y="0">0</tspan></text>
+      <text id="_1.2_Billion" data-name="1.2 Billion" transform="translate(354 52)" fill="#303030" font-size="12" font-family="Lora-Regular, Lora"><tspan x="-51.861" y="0">1.2 Billion</tspan></text>
+      <text id="_0.6_Billion" data-name="0.6 Billion" transform="translate(214 52)" fill="#303030" font-size="12" font-family="Lora-Regular, Lora"><tspan x="-55.131" y="0">0.6 Billion</tspan></text>
     </g>
     <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(0 89)" clip-path="url(#clip-path)">
       <g transform="translate(0 -65)">
-        <text id="English" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">English</tspan></text>
+        <text id="English" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">English</tspan></text>
       </g>
       <g transform="translate(0 -39)">
-        <text id="Chinese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Chinese</tspan></text>
+        <text id="Chinese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Chinese</tspan></text>
       </g>
       <g transform="translate(0 -13)">
-        <text id="Spanish" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Spanish</tspan></text>
+        <text id="Spanish" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Spanish</tspan></text>
       </g>
       <g transform="translate(0 13)">
-        <text id="Arabic" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Arabic</tspan></text>
+        <text id="Arabic" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Arabic</tspan></text>
       </g>
       <g transform="translate(0 39)">
-        <text id="Indonesian" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Indonesian</tspan></text>
+        <text id="Indonesian" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Indonesian</tspan></text>
       </g>
       <g transform="translate(0 65)">
-        <text id="Portuguese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Portuguese</tspan></text>
+        <text id="Portuguese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Portuguese</tspan></text>
       </g>
       <g transform="translate(0 91)">
-        <text id="French" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">French</tspan></text>
+        <text id="French" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">French</tspan></text>
       </g>
       <g transform="translate(0 117)">
-        <text id="Japanese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Japanese</tspan></text>
+        <text id="Japanese" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Japanese</tspan></text>
       </g>
       <g transform="translate(0 143)">
-        <text id="Russian" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">Russian</tspan></text>
+        <text id="Russian" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Russian</tspan></text>
       </g>
       <g transform="translate(0 169)">
-        <text id="German" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">German</tspan></text>
+        <text id="German" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">German</tspan></text>
       </g>
       <g transform="translate(0 195)">
-        <text id="All_Others" data-name="All Others" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="0" y="0">All Others</tspan></text>
+        <text id="All_Others" data-name="All Others" transform="translate(0 78)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">All Others</tspan></text>
       </g>
     </g>
-    <rect id="Rectangle_2" data-name="Rectangle 2" width="277" height="16" transform="translate(91 89)" fill="#8a1723"/>
-    <rect id="Rectangle_3" data-name="Rectangle 3" width="207" height="16" transform="translate(91 115)" fill="#8a1723"/>
-    <rect id="Rectangle_4" data-name="Rectangle 4" width="85" height="16" transform="translate(91 141)" fill="#8a1723"/>
-    <rect id="Rectangle_5" data-name="Rectangle 5" width="55" height="16" transform="translate(91 167)" fill="#8a1723"/>
-    <rect id="Rectangle_6" data-name="Rectangle 6" width="46" height="16" transform="translate(91 193)" fill="#8a1723"/>
-    <rect id="Rectangle_7" data-name="Rectangle 7" width="40" height="16" transform="translate(91 219)" fill="#8a1723"/>
-    <rect id="Rectangle_8" data-name="Rectangle 8" width="35" height="16" transform="translate(91 245)" fill="#8a1723"/>
-    <rect id="Rectangle_9" data-name="Rectangle 9" width="28" height="16" transform="translate(91 271)" fill="#8a1723"/>
-    <rect id="Rectangle_10" data-name="Rectangle 10" width="27" height="16" transform="translate(91 297)" fill="#8a1723"/>
-    <rect id="Rectangle_11" data-name="Rectangle 11" width="22" height="16" transform="translate(91 323)" fill="#8a1723"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="277" height="16" transform="translate(91 89)" fill="#004d4d"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="207" height="16" transform="translate(91 115)" fill="#004d4d"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="85" height="16" transform="translate(91 141)" fill="#004d4d"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="55" height="16" transform="translate(91 167)" fill="#004d4d"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="46" height="16" transform="translate(91 193)" fill="#004d4d"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="40" height="16" transform="translate(91 219)" fill="#004d4d"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="35" height="16" transform="translate(91 245)" fill="#004d4d"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="28" height="16" transform="translate(91 271)" fill="#004d4d"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="27" height="16" transform="translate(91 297)" fill="#004d4d"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="22" height="16" transform="translate(91 323)" fill="#004d4d"/>
     <rect id="Rectangle_12" data-name="Rectangle 12" width="247" height="16" transform="translate(91 349)" fill="rgba(61,29,32,0.3)"/>
     <text id="_1_186_451_052" data-name="1,186,451,052" transform="translate(96 102)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">1,186,451,052</tspan></text>
     <text id="_888_453_068" data-name="888,453,068" transform="translate(96 128)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">888,453,068</tspan></text>
@@ -68,6 +71,6 @@
     <text id="_116_353_942" data-name="116,353,942" transform="translate(138 310)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">116,353,942</tspan></text>
     <text id="_92_525_427" data-name="92,525,427" transform="translate(133 336)" fill="#3d1d20" font-size="12" font-family="Lora-Regular, Lora"><tspan x="0" y="0">92,525,427</tspan></text>
     <text id="_1_060_551_371" data-name="1,060,551,371" transform="translate(96 362)" fill="#fff" font-size="12" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">1,060,551,371</tspan></text>
-    <text id="Internet_Users_By_Language" data-name="Internet Users By Language" transform="translate(188 38)" fill="#3d1d20" font-size="20" font-family="PlayfairDisplaySC-Bold, Playfair Display SC" font-weight="700"><tspan x="-151.26" y="0">Internet Users By Language</tspan></text>
+    <text id="Internet_Users_Per_Language" data-name="Internet Users Per Language" transform="translate(188 38)" fill="#303030" font-size="18" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="-123.508" y="0">Internet Users Per Language</tspan></text>
   </g>
 </svg>

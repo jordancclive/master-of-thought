@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="375" height="176" viewBox="0 0 375 176">
-  <g id="_39ManufacturingCompanies" data-name="39ManufacturingCompanies" transform="translate(0 -95)">
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="239" viewBox="0 0 375 239">
+  <g id="_39ManufacturingCompanies" data-name="39ManufacturingCompanies" transform="translate(0 -32)">
     <text id="Floor_Bosses" data-name="Floor Bosses" transform="translate(0 266)" fill="#303030" font-size="16" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Floor Bosses</tspan></text>
     <text id="Foremen" transform="translate(0 237)" fill="#303030" font-size="16" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Foremen</tspan></text>
     <text id="Superintendents" transform="translate(0 208)" fill="#303030" font-size="16" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Superintendents</tspan></text>
@@ -16,6 +16,8 @@
     <text id="_51_" data-name="51%" transform="translate(185 209)" fill="#fcfcfc" font-size="16" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">51%</tspan></text>
     <text id="_42_" data-name="42%" transform="translate(185 238)" fill="#fcfcfc" font-size="16" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">42%</tspan></text>
     <text id="_32_" data-name="32%" transform="translate(185 267)" fill="#fcfcfc" font-size="16" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">32%</tspan></text>
-    <text id="Vocabulary_Test_Score" data-name="Vocabulary Test Score" transform="translate(175 113)" fill="#303030" font-size="18" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="0" y="0">Vocabulary Test Score</tspan></text>
+    <text id="Vocabulary_Test_Score" data-name="Vocabulary Test Score" transform="translate(175 113)" fill="#303030" font-size="16" font-family="Lora-Regular, Lora"><tspan x="0" y="0">Vocabulary Test Score</tspan></text>
+    <text id="Corporate_Hierarchy_and_Average_Vocabulary_Scores" data-name="Corporate Hierarchy and 
+Average Vocabulary Scores" transform="translate(182 50)" fill="#303030" font-size="18" font-family="Lora-Bold, Lora" font-weight="700"><tspan x="-109.806" y="0">Corporate Hierarchy and </tspan><tspan x="-115.04" y="23">Average Vocabulary Scores</tspan></text>
   </g>
 </svg>

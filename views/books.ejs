@@ -18,7 +18,7 @@
       <p class="text-center">- <em>As a Man Thinketh</em></p>
       <br>
 
-      <p>To reduce the likelihood of anyone’s biases, objectives, or blind spots affecting this list too much, only books that appeared in at least two of the following lists are included in this compilation:</p>
+      <p>Below is a list of books that have been deemed the best of all time, most influential of all time, or best-selling. To reduce the likelihood of anyone’s biases, objectives, or blind spots affecting this list too much, only books that appeared in at least two of the following lists are included in this compilation:</p>
       <ol>
         <li>Encyclopedia Brittanica's <em><a href="https://www.britannica.com/list/12-novels-considered-the-greatest-book-ever-written">12 Novels Considered the "Greatest Book Ever Written"</a></em></li>
         <li>Open Education Database's <em><a href="https://oedb.org/ilibrarian/50_books_that_changed_the_world/">50 Most Influential Books of All Time</a></em></li>
@@ -31,10 +31,18 @@
       <br>
 
       <% Object.keys(booksData).reverse().forEach(function(key){ %>
-      <h2><%= key %></h2>
+      <h2>
+        <% if (key === 6) { %>Six
+        <% } else if (key === 5) { %>
+          <%- include ("Five")%>
+        <% } else if (key === 4) { %>Four
+        <% } else if (key === 3) { %>Three
+        <% } else if (key === 2) { %>Two
+        <% } %> List Appearances
+      </h2>
       <% booksData[key].forEach(function(ele){ %>
         <li class="book-list"><em><a href="/books/<%= ele.page_name %>"><%= ele.name %></a></em><% if (ele.author) { %>, by <%= ele.author %><% } %></li>
-      <% }) %> <% }) %>
+      <% }) %> <br><% }) %>
 
       <%- include("./footer") %>
 

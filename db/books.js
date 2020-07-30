@@ -401,7 +401,7 @@ let _books = [
       "https://www.amazon.com/gp/product/0385189516/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=0385189516&linkId=37cf8112a99851e57bfb0f54a2794424",
     audible_url:
       "https://www.amazon.com/gp/product/B079Y5G5GM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=B079Y5G5GM&linkId=a28c44d3ff92cd01a06e9bb0423b2385",
-    book_image: `https://affiliate-program.amazon.com/home/productlinks/customize?asin=0385189516&request_source=quicklinks&subflow=sp_`,
+    book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/0385189516/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385189516&linkCode=as2&tag=flowoflearnin-20&linkId=ae30b423c998bb78a61d56d4d912110b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385189516&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=0385189516" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["Hans Christian Andersen"],
     author_url: ["https://en.wikipedia.org/wiki/Hans_Christian_Andersen"],
     /*estimated_reading_time: ,*/
@@ -416,7 +416,7 @@ let _books = [
     url:
       "https://www.amazon.com/gp/product/185326895X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=flowoflearnin-20&creative=9325&linkCode=as2&creativeASIN=185326895X&linkId=e1fa3c6defd55abab0c812e87b56b007",
     audible_url: "",
-    book_image: ``,
+    book_image: `<a target="_blank"  href="https://www.amazon.com/gp/product/185326895X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=185326895X&linkCode=as2&tag=flowoflearnin-20&linkId=9e8a47155064d1497a97af85bba0ad68"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=185326895X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=flowoflearnin-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=flowoflearnin-20&l=am2&o=1&a=185326895X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />`,
     author: ["William Shakespeare"],
     author_url: ["https://en.wikipedia.org/wiki/William_Shakespeare"],
     /*estimated_reading_time: ,*/

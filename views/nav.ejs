@@ -1,26 +1,37 @@
 <div class="header-menu">
-  <a href="/" ><img src="favicon-32x32.png" /></a>
-  <ul class="global-nav">
-    <li><a href="/about">About</a></li>
-    <li>
+  <div class="topnav" id="myTopnav">
+    <a href="/" ><img src="favicon-32x32.png" /></a>
+    <div class="main-menu">
       <div class="dropdown">
-        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Thought Seeds<span class="caret"></span>
+        <button class="dropbtn">Words
+          <i class="fa fa-caret-down"></i>
         </button>
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-          <li><a href="/as-a-man-thinketh">As a Man Thinketh</a></li>
-          <li><a href="/books">Noteworthy Books</a></li>
-        </ul>
+        <div class="dropdown-content">
+          <a href="/vocabulary">Vocabulary</a>
+          <a href="/foreign-languages">Foreign Languages</a>
+        </div>
       </div>
-    </li>
-    <li>
       <div class="dropdown">
-        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Building Blocks<span class="caret"></span>
+        <button class="dropbtn">Ideas
+          <i class="fa fa-caret-down"></i>
         </button>
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-          <li><a href="/vocabulary">Vocabulary</a></li>
-          <li><a href="/foreign-languages">Foreign Languages</a></li>
-        </ul>
+        <div class="dropdown-content">
+          <a href="/as-a-man-thinketh">As a Man Thinketh</a>
+          <a href="/books">Noteworthy Books</a>
+        </div>
       </div>
-    </li>
-  </ul>
+      <a href="/about" style="padding: 14px 0 14px 16px;">About</a>
+    </div>
+    <a href="javascript:void(0);" style="padding: 14px 16px;" class="icon" onclick="myFunction()">&#9776;</a>
+  </div>
 </div>
+<script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+  </script>

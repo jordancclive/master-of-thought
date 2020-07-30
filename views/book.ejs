@@ -15,31 +15,43 @@
       <h1 class="text-center">
         <%= currBook.name %>
       </h1>
-      <br />
+      <br>
 
-      <div class="amazon-image">
-        <%- currBook.book_image %>
+      <div class="book-detail">
+        <div class="amazon-image">
+          <%- currBook.book_image %>
+        </div>
+        <div class="about-book">
+          <h4 class="text-center">About <em><%= currBook.name %></em></h4>
+          <p class="text-center">
+            <% if (currBook.author.length) { %>
+              By <a href="<%= currBook.author_url %>"><%= currBook.author %></a><br>
+            <% } %>
+            <% if (currBook.year_completion) { %>
+              Published <%= currBook.year_completion %><br>
+            <% } %>
+            <% if (currBook.national_origin) { %>
+              <%= currBook.national_origin %>
+            <% } %>
+            <% if (currBook.audible_url) { %>
+              <br>
+              <a href="<%= currBook.audible_url %>">Audible Version</a>
+            <% } %>
+          </p>
+        </div>
       </div>
-      <div class="about-book">
-        <h4 class="text-center">About <%= currBook.name %></h4>
-        <p class="text-center">
-          <% if (currBook.author.length) { %>
-            By <a href="<%= currBook.author_url %>"><%= currBook.author %></a><br>
-          <% } %>
-          <% if (currBook.year_completion) { %>
-            Published <%= currBook.year_completion %><br>
-          <% } %>
-          <% if (currBook.national_origin) { %>
-            <%= currBook.national_origin %>
-          <% } %>
-        </p>
-        <p class="text-center"><a href="<%= currBook.audible_url %>">Audible Version</a></p>
-      </div>
+      <div class="spacer"></div>
+
+      <center>
+        <img src="decorativedivider.svg" class="decorative-divider" />
+      </center>
       <div class="spacer"></div>
 
       <h2>Synopsis</h2>
       <br>
-      <%- include(`./books/${currBook.page_name}.html`, {title: name}) %>
+      <div class="book-synopses">
+        <%- include(`./books/${currBook.page_name}.html`, {title: name}) %>
+      </div>
       <div class="spacer"></div>
 
       <h2>Book List Appearances</h2>

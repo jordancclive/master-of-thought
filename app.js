@@ -58,18 +58,21 @@ app.get("/books/:page_name", (req, res, next) => {
             ele.book_lists.includes(lst.no)
           ),
         };
+
         nextBook =
           i != obj[key].length - 1
             ? obj[key][i + 1]
-            : keyIndex != 0 && keys[keyIndex + 1][0];
+            : obj[key - 1] && obj[key - 1][0];
+
         prevBook =
           i != 0
             ? obj[key][i - 1]
-            : keyIndex != keys.length - 1 &&
-              obj[keys[keyIndex + 1]][obj[keys[keyIndex + 1]].length - 1];
+            : obj[Number(key) + 1] &&
+              obj[Number(key) + 1][obj[Number(key) + 1].length - 1];
       }
     });
   });
+
   const name = currBook.name;
   res.render("book", {
     name,

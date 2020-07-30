@@ -1645,7 +1645,7 @@ module.exports = {
   getBookByNoList: () =>
     _books.reduce(function (r, a) {
       let sum = a.book_lists.reduce((sum, next) => sum + next, 0);
-      console.log("sum", sum);
+      // console.log("sum", sum);
       r[a.book_lists.length] = r[a.book_lists.length] || [];
       r[a.book_lists.length].push(a);
       return r;

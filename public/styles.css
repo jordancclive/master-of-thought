@@ -52,7 +52,7 @@ h1 {
 
 h1, .firstcharacter {
   color: #008080;
-  text-shadow: 1px 1px #707070;
+  text-shadow: 0.5px 0.5px #707070;
 }
 
 h2 {
@@ -451,6 +451,10 @@ li.book-list {
 @media only screen and (min-width: 768px) {
   h1 {
     font-size: 48px;
+  }
+
+  h1, .firstcharacter {
+    text-shadow: 1px 1px #707070;
   }
 
   .pretitle {

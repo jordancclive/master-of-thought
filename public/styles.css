@@ -114,6 +114,7 @@ blockquote {
 
 .cite-reference {
   font-size: 50%;
+  vertical-align: super;
 }
 
 /* || Header and Main Navigation */
@@ -158,14 +159,14 @@ blockquote {
 }
 
 .topnav {
-  display: flex;
+  display: block;
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  /* background-color: #333; */
 }
 
 .topnav a {
+  padding: 14px 16px;
   float: left;
   display: block;
   color: #707070;
@@ -174,12 +175,22 @@ blockquote {
   font-size: 17px;
 }
 
+.topnav a:not(:first-child), .dropdown .dropbtn {
+  display: none;
+}
+
+.topnav a.icon {
+  float: right;
+  display: block;
+}
+
 .topnav a img:hover {
   box-shadow: 0 0 2px 1px rgba(61, 204, 204, 0.3);
 }
 
 .topnav .icon {
   font-size: 20px;
+  display: none;
 }
 
 .main-menu {
@@ -189,10 +200,6 @@ blockquote {
 .active {
   background-color: #4CAF50;
   color: white;
-}
-
-.topnav .icon {
-  display: none;
 }
 
 .dropdown {
@@ -244,23 +251,6 @@ blockquote {
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
-}
-
-.topnav a:not(:first-child), .dropdown .dropbtn {
-  display: none;
-}
-
-.topnav a.icon {
-  float: right;
-  display: block;
-}
-
-.topnav a {
-  padding: 14px 16px;
-}
-
-.topnav {
   display: block;
 }
 
@@ -489,10 +479,9 @@ li.book-list {
     display: none;
   }
 
-  /* .main-menu{
-    display: flex;
-    align-items: center;
-  } */
+  .topnav .main-menu a {
+    text-align: right;
+  }
 
   .navigation_box {
     margin: 20px 7px 0px 0px;

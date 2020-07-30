@@ -1,7 +1,7 @@
 "use strict";
 
 const _chapters = [
-  { id: 0, name: "About This Book", page_name: "about-this-book" },
+  { id: 0, name: "How to Approach This Book", page_name: "how-to-approach-this-book" },
   { id: 1, name: "Foreword", page_name: "foreword" },
   { id: 2, name: "Thought and Character", page_name: "thought-and-character" },
   { id: 3, name: "Effect of Thought on Circumstances", page_name: "effect-of-thought-on-circumstances", },

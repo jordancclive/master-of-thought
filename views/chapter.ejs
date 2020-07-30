@@ -22,12 +22,12 @@
         </h3>
       </div>
       <h1>
-        <% if (chapter.page_name !== 'about-this-book' && chapter.page_name !==
+        <% if (chapter.page_name !== 'how-to-approach-this-book' && chapter.page_name !==
         'foreword') { %><%= chapter.id - 1 %>. <% } %><%= chapter.name %>
       </h1>
       <div class="spacer"></div>
       <% if (chapter.id === 0) { %>
-        <%- include("./chapters/about-this-book.html")%>
+        <%- include("./chapters/how-to-approach-this-book.html")%>
       <% } else if (chapter.id === 1) { %>
         <%- include ("./chapters/foreword.html") %>
       <% } else if (chapter.id === 2) { %>
@@ -51,7 +51,7 @@
         <% if (previous) { %>
           <a href="/chapter/<%= previous.page_name %>"><
             <% if (chapter.id === 0) { %> Table of Contents <% } %>
-            <% if (previous.page_name === 'about-this-book') { %> About This Book <% } %>
+            <% if (previous.page_name === 'how-to-approach-this-book') { %> How to Approach This Book <% } %>
             <% if (previous.page_name === 'foreword') { %> Foreword <% } %>
             <% if (previous.id > 1) { %> Chapter <%= previous.id - 1 %> <% } %>
           </a>

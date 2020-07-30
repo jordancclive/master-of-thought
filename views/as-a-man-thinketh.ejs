@@ -14,7 +14,7 @@
       </center>
       <br>
 
-      <p class="text-center">by James Allen</p>
+      <p class="text-center">by <a href="https://en.wikipedia.org/wiki/James_Allen_(author)" target="default">James Allen</a></p>
       <center>
         <img src="decorativedivider.svg" class="decorative-divider" />
       </center>
@@ -22,7 +22,7 @@
 
       <% chapters.forEach(function(chapter){ %>
       <p class="toc">
-        <% if (chapter.page_name !== 'about-this-book') { %><%= chapter.id - 1
+        <% if (chapter.page_name !== 'how-to-approach-this-book') { %><%= chapter.id - 1
         %>. <% } %>
         <a href="/chapter/<%= chapter.page_name %>"><%= chapter.name %></a>
       </p>

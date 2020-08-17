@@ -421,7 +421,7 @@ let _books = [
     author_url: ["https://en.wikipedia.org/wiki/William_Shakespeare"],
     /*estimated_reading_time: ,*/
     national_origin: "United Kingdom",
-    year_completion: 1589 - 1616,
+    year_completion: "1589 - 1616",
     book_lists: [2, 6],
     page_name: "complete-works-of-william-shakespeare",
   },
